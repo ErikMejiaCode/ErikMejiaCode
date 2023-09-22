@@ -4,9 +4,6 @@
   <a href="https://www.linkedin.com/in/erik-mejia/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/coderik_/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="mailto:erikdojo352@gmail.com">
     <img src="https://img.shields.io/badge/Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -26,11 +23,11 @@
 ### 👨‍💻 About Me:
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring ThreeJs and Ai.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on CodeWars and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erik-mejia/)
 
