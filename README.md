@@ -9,14 +9,14 @@
   </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-  <img src="" width="30" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <h1>
     hello there!
   </h1>
 </div>
 
 <div align="center">
-  <img src="" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/wKnqovL33x9in9ci6X/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
