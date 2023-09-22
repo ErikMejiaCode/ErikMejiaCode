@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/wKnqovL33x9in9ci6X/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/mlBDoVLOGidEc/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -25,7 +25,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring ThreeJs and Ai.
+- :seedling: Exploring ThreeJs, Ai and Blender.
 
 - :zap: In my free time, I solve problems on CodeWars and read tech articles.
 
